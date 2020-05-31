@@ -1,4 +1,3 @@
-
 <?php
    define("URL_ASSETS","http://localhost/Examenliage-Quizz/Quizz/assets");
 
